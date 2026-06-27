@@ -3,9 +3,9 @@
 Bu proje, sürücülerden alınan anlık EEG beyin dalgası frekanslarını veri bilimi yöntemleriyle işleyerek, sürücünün bilişsel durumunu "Uyanık" (0) veya "Uykulu" (1) olarak tespit eden bir makine öğrenmesi modelidir.
 
 ## Proje Ekibi Bilgileri
-* **[Öğrenci Numarası]** - [Adı Soyadı]
-* **[Öğrenci Numarası]** - [Adı Soyadı]
-* **[Öğrenci Numarası]** - [Adı Soyadı]
+* **1306240002** - İbrahim Kışlak
+* **1306240098** - Efe Kemal Çakmak
+  
 
 ## Veri Kaynağı ve Kullanılan Kütüphaneler
 * **Veri Seti:** Sleepy Driver EEG Brainwave Data (Kaggle - naddamuhhamed/sleepy-driver-eeg-brainwave-data)
